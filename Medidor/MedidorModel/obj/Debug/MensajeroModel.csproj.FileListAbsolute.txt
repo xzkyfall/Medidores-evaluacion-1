@@ -1,0 +1,12 @@
+C:\Users\Orion\source\repos\orionpgaete\AP-171-22\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.dll
+C:\Users\Orion\source\repos\orionpgaete\AP-171-22\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.pdb
+C:\Users\Orion\source\repos\orionpgaete\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.csprojAssemblyReference.cache
+C:\Users\Orion\source\repos\orionpgaete\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.csproj.CoreCompileInputs.cache
+C:\Users\Orion\source\repos\orionpgaete\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.dll
+C:\Users\Orion\source\repos\orionpgaete\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.pdb
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.dll
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.pdb
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.csproj.AssemblyReference.cache
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.csproj.CoreCompileInputs.cache
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.dll
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.pdb

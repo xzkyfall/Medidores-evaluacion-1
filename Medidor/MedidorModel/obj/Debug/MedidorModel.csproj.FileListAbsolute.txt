@@ -1,0 +1,12 @@
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.dll
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.pdb
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MedidorModel.csproj.AssemblyReference.cache
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MedidorModel.csproj.CoreCompileInputs.cache
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.dll
+C:\Users\Demian\Source\Repos\AP-171-22\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.pdb
+C:\Users\Demian\source\repos\AP-171-22\Medidor\MedidorModel\bin\Debug\MensajeroModel.dll
+C:\Users\Demian\source\repos\AP-171-22\Medidor\MedidorModel\bin\Debug\MensajeroModel.pdb
+C:\Users\Demian\source\repos\AP-171-22\Medidor\MedidorModel\obj\Debug\MedidorModel.csproj.AssemblyReference.cache
+C:\Users\Demian\source\repos\AP-171-22\Medidor\MedidorModel\obj\Debug\MedidorModel.csproj.CoreCompileInputs.cache
+C:\Users\Demian\source\repos\AP-171-22\Medidor\MedidorModel\obj\Debug\MensajeroModel.dll
+C:\Users\Demian\source\repos\AP-171-22\Medidor\MedidorModel\obj\Debug\MensajeroModel.pdb
